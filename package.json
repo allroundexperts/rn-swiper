@@ -1,0 +1,22 @@
+{
+  "name": "rn-swiper",
+  "version": "1.0.0",
+  "description": "An easy to use react native wrapper component that makes the child components swipeable in four directions.",
+  "main": "Swiper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "iOS",
+    "Android",
+    "Swiper",
+    "Animated-swiper",
+    "swiping"
+  ],
+  "author": "Sibtain Ali",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
