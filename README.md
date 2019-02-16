@@ -11,7 +11,7 @@ This component tries to solve the problem of vertical swiping inside scroll view
 Using npm:
 
 ```bash
-npm install --save rn-swiper
+npm install --save @allroundexperts/rn-swiper
 ```
 ## Props
 
